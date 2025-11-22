@@ -38,20 +38,11 @@ Bash
 npm start
 It should open at http://localhost:3000.
 
-Sneak Peek (UI Screenshots)
-Here are a few pictures of the website:
-
 1. Home Page
 This is the first page you see! It has a welcoming message and a few "Featured Books."
-
-[Insert Screenshot of your Home Page here]
 
 2. Books Page with Search
 This pagd shows all the books. The search bar at the top lets you filter them easily!
 
-[Insert Screenshot of your Books Page here]
-
 3. Cart and Checkout
-This shows the items you've added and the final checkout form.
-
-[Insert Screenshot of your Cart or Checkout Page here]
+This shows the items you've added and the checkout form.
