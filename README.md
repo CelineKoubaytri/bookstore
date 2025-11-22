@@ -1,7 +1,7 @@
 Welcome to BookHaven 
 This is my very own e-commerce website for books, built using React! It's a simple project that lets users browse a collection of books, add them to a shopping cart, and even go through a checkout process.
 
-I used a technologies like React Context to manage the shopping cart globally—meaning you can add an item on one page and see it on another!
+I used a technologies like React Context to manage the shopping cart globally meaning you can add an item on one page and see it on another!
 
 What Does it Do? (Features)
 Book Catalog: A page where you can see all the available books and quickly search for them by title, author, or category.
