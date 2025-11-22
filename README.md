@@ -24,7 +24,7 @@ Get the Code: First, you need to download or clone this project's code to your c
 
 Bash
 
-git clone [Your Repository URL Here]
+git clone https://github.com/CelineKoubaytri/bookstore.git
 cd bookstore
 Install all the necessary packages (like React, Bootstrap, and the Router) that the project needs.
 
