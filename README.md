@@ -32,8 +32,3 @@ Bash
 
 npm install
 Start it up! This command will start the development server and open the website in your browser.
-
-Bash
-
-npm start
-It should open at http://localhost:3000.
