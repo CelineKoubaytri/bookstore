@@ -1,7 +1,11 @@
 Welcome to BookHaven 
 This is my very own e-commerce website for books, built using React! It's a simple project that lets users browse a collection of books, add them to a shopping cart, and even go through a checkout process.
 
+<<<<<<< HEAD
 I used a technologies like React Context to manage the shopping cart globally—meaning you can add an item on one page and see it on another!
+=======
+I used a technologies like React Context to manage the shopping cart globally meaning you can add an item on one page and see it on another!
+>>>>>>> ba044af93761ea9f442f21faf29111d549cf1362
 
 What Does it Do? (Features)
 Book Catalog: A page where you can see all the available books and quickly search for them by title, author, or category.
@@ -38,6 +42,7 @@ Bash
 npm start
 It should open at http://localhost:3000.
 
+<<<<<<< HEAD
 Sneak Peek (UI Screenshots)
 Here are a few pictures of the website:
 
@@ -55,3 +60,13 @@ This pagd shows all the books. The search bar at the top lets you filter them ea
 This shows the items you've added and the final checkout form.
 
 [Insert Screenshot of your Cart or Checkout Page here]
+=======
+1. Home Page
+This is the first page you see! It has a welcoming message and a few "Featured Books."
+
+2. Books Page with Search
+This pagd shows all the books. The search bar at the top lets you filter them easily!
+
+3. Cart and Checkout
+This shows the items you've added and the checkout form.
+>>>>>>> ba044af93761ea9f442f21faf29111d549cf1362
